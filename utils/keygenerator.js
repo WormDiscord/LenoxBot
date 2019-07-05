@@ -1,5 +1,5 @@
 function generateKey() {
-	const tokens = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789';
+	const tokens = 'NTg0NjE2MzQ2MDE3NTk1Mzky.XR64Iw.pGJHaOKRflmY1PsRIhDUfMNppH0';
 	let keyOut = '';
 
 	// segments
